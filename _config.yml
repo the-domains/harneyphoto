@@ -1,0 +1,28 @@
+name: HarneyPhoto
+favicon: null
+layout_spectrum: 0.6998371186200529
+typography_spectrum: 0.15598759124986827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3325542570091784
+  lightness: 0.7305303271859884
+  saturation: 0.0634824438020587
+  rhythmicContrast: 0.11091981385834515
+purpose: []
