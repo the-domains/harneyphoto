@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HarneyPhoto]]></title>
         <description><![CDATA[HarneyPhoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harneyphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 00:15:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 03:09:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harneyphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3199c84b-854d-4173-8dfc-9486ef836d96.jpg">]]></description>
+            <link>https://thegrid.ai/harneyphoto/9a47ece9-f6bb-4995-89b5-e0547460ef50/index.html</link>
+            <guid isPermaLink="false">9a47ece9-f6bb-4995-89b5-e0547460ef50</guid>
+            <pubDate>Tue, 12 Jan 2016 03:08:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HarneyPhoto]]></title>
-            <description><![CDATA[<article><h1>HarneyPhoto</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/749118a3a79926c062695564c13bc70c08fe3eb9.jpg"></article>]]></description>
-            <link>undefinedharneyphoto/index.html</link>
+            <description><![CDATA[<article><h1>HarneyPhoto</h1><p>HarneyPhoto where we don't just take photos, we kidnap moments in time for all to see.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/749118a3a79926c062695564c13bc70c08fe3eb9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/harneyphoto/harneyphoto/index.html</link>
             <guid isPermaLink="false">e4965417-af66-4b1e-ace7-319b8d39f2ac</guid>
             <pubDate>Mon, 11 Jan 2016 00:15:18 GMT</pubDate>
         </item>
