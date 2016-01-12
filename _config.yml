@@ -1,6 +1,6 @@
 name: HarneyPhoto
 favicon: null
-layout_spectrum: 0.6998371186200529
+layout_spectrum: 1
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#6a5053'
     - '#9a6a5e'
     - '#b1b65b'
-  brandStrength: 1
+  brandStrength: 0.6875
   lightness: 0
   saturation: 0
   rhythmicContrast: 0.11091981385834515
